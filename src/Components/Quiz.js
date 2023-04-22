@@ -10,8 +10,10 @@ function Quiz() {
   const nextQuestion = () => {
     if (Questions[currentQuestion].correctAnswer === optionChosen) {
       setScore(score + 1);
+      alert("Correct!")
+    } else {
+    alert("Incorrect");
     }
-    alert(score);
     setCurrentQuestion(currentQuestion + 1);
   };
 
