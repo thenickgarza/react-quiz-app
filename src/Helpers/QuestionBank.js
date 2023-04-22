@@ -1,18 +1,42 @@
 export const Questions = [
-    {
-        prompt: "What is 2+2?",
-        answerA: "1",
-        answerB: "3",
-        answerC: "4",
-        answerD: "6",
-        correctAnswer: "C"
-    },
-    {
-        prompt: "What is 2+3?",
-        answerA: "1",
-        answerB: "3",
-        answerC: "4",
-        answerD: "6",
-        correctAnswer: "C"
-    },
-]
+  {
+    prompt: "What day does the Sabbath fall on?",
+    answerA: "Sunday",
+    answerB: "Wenesday",
+    answerC: "Saturday",
+    answerD: "Friday",
+    correctAnswer: "C",
+  },
+  {
+    prompt: "Why do we honor the sabbath? ",
+    answerA: "It's a sign and covenant between Yah and his chosen",
+    answerB: "We will have a bad day if we don't",
+    answerC: "We need extra sleep",
+    answerD: "It's fun",
+    correctAnswer: "A",
+  },
+  {
+    prompt: "What do we do to honor the sabbath? ",
+    answerA: "Go to work",
+    answerB: "Rest and praise Yahuah",
+    answerC: "Sacrifice a goat",
+    answerD: "Do jumping jacks",
+    correctAnswer: "B",
+  },
+  {
+    prompt: "Who is Yahuah?",
+    answerA: "The most High creator of heaven and earth ",
+    answerB: "Yahushua’s mother ",
+    answerC: "The god of the air",
+    answerD: "A giant who lived long ago",
+    correctAnswer: "A",
+  },
+  {
+    prompt: "Which did Yah create in his image?",
+    answerA: "Male and Female",
+    answerB: "Duck and Goose",
+    answerC: "Flowers",
+    answerD: "Sun and Moon",
+    correctAnswer: "A",
+  },
+];
